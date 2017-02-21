@@ -1,0 +1,45 @@
+.square{
+
+ height:10vh;
+ width:5vw;
+ background-color: blue;
+ position: absolute;
+ left: 40px;
+ top: 20px;
+}
+.top{
+
+  height:15vh;
+  width:100vw;
+  background-color: grey;
+  position: relative;
+}
+
+p{
+
+  height:20vh;
+  width:100vw;
+  text-align:center;
+  font-size:30px;
+}
+.blue{
+  height:15vh;
+  width:100vw;
+  background-color: blue;
+}
+.green{
+
+  height:15vh;
+  width:100vw;
+  background-color: green;
+}
+.olive{
+  height:15vh;
+  width:100vw;
+  background-color: olive;
+}
+.yellow{
+  height:15vh;
+  width:100vw;
+  background-color: yellow;
+}
